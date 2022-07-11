@@ -1,1 +1,2 @@
-this is file3.txt
+this is file3.txt - the header is changed
+this is the main content
